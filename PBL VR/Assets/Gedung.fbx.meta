@@ -3,7 +3,12 @@ guid: a335b14711a39204cb6d96957eb0c6cd
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick wall
+    second: {fileID: 2800000, guid: bdc2a0dcf4d365040946f54a269fcf48, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
